@@ -32,7 +32,7 @@
 
 <div class="content">
 <h2>Profile</h2>
-<img src="profile.jpg" alt"suresh" width="600px" hight="400px">
+<img src="profile.jpg" alt"suresh" width="300px" hight="150px">
 	<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services. Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services.<br>
 <br>
 	</p>
@@ -42,7 +42,7 @@
 	</p>
 
 <h2>APPLICATION</h2>
-<img src="application.jpg" alt"auto" width="500pc" hight="328px">
+<img src="application.jpg" alt"auto" width="300px" hight="128px">
 	<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services. Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services.
 	</p>
 
