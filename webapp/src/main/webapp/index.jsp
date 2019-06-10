@@ -19,12 +19,12 @@
 
 <div class="nav">
 	<ul>
-		<li><a class="active" href="index.html">Home</a></li>
-		<li><a href="p2.html">TOOLS</a></li>
-		<li><a href="p3.html">APPLICATION</a></li>
-		<li><a href="p4.html">MOBILES</a></li>
-		<li><a href="p5.html">PROFILE</a></li>
-		<li><a href="p6.html">Education</a></li>
+		<li><a class="active" href="index.html">HOME</a></li>
+		<li><a href="p2.html">APPLICATION</a></li>
+		<li><a href="p3.html">MOBILES</a></li>
+		<li><a href="p4.html">PROFILE</a></li>
+		<li><a href="p5.html">EDUCATION</a></li>
+		<li><a href="p6.html">NETWORK</a></li>
 		<li><a href="p7.html">Contact Us</a></li>
 		
 	</ul>
