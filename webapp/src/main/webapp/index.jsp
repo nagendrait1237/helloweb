@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title> MACHA TECHNOLOGIES</title>
+	<title> NAGENDRA TECHNOLOGIES</title>
        	
 	<link rel="stylesheet"type="text/css"href="styles.css"media="screen">
 	
@@ -25,14 +25,14 @@
 		<li><a href="p4.html">PROFILE</a></li>
 		<li><a href="p5.html">EDUCATION</a></li>
 		<li><a href="p6.html">NETWORK</a></li>
-		<li><a href="p7.html">Contact Us</a></li>
+		<li><a href="p7.html">COMMUNICATION</a></li>
 		
 	</ul>
 </div>
 
 <div class="content">
 <h2>Profile</h2>
-<img src="suresh.jpg" alt"suresh" width="200px" hight="10px">
+<img src="profile.jpg" alt"suresh" width="1300px" hight="957px">
 	<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services. Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services.<br>
 <br>
 	</p>
@@ -42,7 +42,7 @@
 	</p>
 
 <h2>APPLICATION</h2>
-<img src="auto.jpg" alt"auto" width="100pc" hight="50px">
+<img src="application.jpg" alt"auto" width="1200pc" hight="628px">
 	<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services. Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services.
 	</p>
 
