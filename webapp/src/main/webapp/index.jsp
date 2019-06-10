@@ -32,28 +32,30 @@
 
 <div class="content">
 <h2>Profile</h2>
-<img src="profile.jpg" alt"suresh" width="300px" hight="150px">
- <p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  
+<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  
 	We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services. 
 	Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars. 
 	We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services.
  </p>
+<img src="profile.jpg" alt"suresh" width="300px" hight="150px">
+ 
 
 <h2>Travel</h2>
-<img src="Travel.jpg" alt"car" width="100px" hight="50px">
  <p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  
 	We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services.
 	Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars. 
 	We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services.
  </p>
+<img src="Travel.jpg" alt"car" width="100px" hight="50px">
 
 <h2>APPLICATION</h2>
-<img src="application.jpg" alt"auto" width="300px" hight="128px">
-	<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services. 
+<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars.  We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services. 
 	Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars. 
 	We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services.
 	</p>
 
+<img src="application.jpg" alt"auto" width="300px" hight="128px">
+	
 <h2>Byke stickering</h2>
 <img src="byke.jpg" alt"byke" width="100pc" hight="50px">
 	<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars. 
