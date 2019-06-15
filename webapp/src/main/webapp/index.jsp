@@ -61,7 +61,7 @@
 	</p>
  </br>
 <h2>Byke stickering</h2>
-<img src="duke.jpg" alt"byke" width="100px" hight="62px">
+<img src="duke.jpg" alt"byke" width="918px" hight="629px">
 <br>
 	<p>Pardhu Arts & Radium Stickering Works was founded in 2015 is one of the leading sho[, engaged in radium stickering to autos,bykes and cars. 
 	We have the necessary personnel, expertise  to provide painting works with a complete range of necessary services. 
